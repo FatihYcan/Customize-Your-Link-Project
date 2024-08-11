@@ -13,7 +13,7 @@ This project helps users organize their social media accounts and other importan
 
 Bu proje, kullanıcıların sosyal medya hesapları ve diğer önemli bağlantılarını merkezi bir yerde düzenlemesine yardımcı olur. Kullanıcılar, bağlantıların platformunu seçebilir ve URL'leri girebilir. Ayrıca, bağlantıları ekleyip düzenleyebilir ve kaldırabilirler.
 
-## Kullanılan Teknolojilerc
+## Kullanılan Teknolojiler
 
 - HTML5
 - CSS3

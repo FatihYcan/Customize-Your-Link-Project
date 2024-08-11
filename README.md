@@ -4,8 +4,8 @@ This project helps users organize their social media accounts and other importan
 
 ## Technologies Used
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Google Fonts
 - Font Awesome
 
@@ -15,8 +15,8 @@ Bu proje, kullanıcıların sosyal medya hesapları ve diğer önemli bağlantı
 
 ## Kullanılan Teknolojilerc
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Google Fonts
 - Font Awesome
 
